@@ -193,12 +193,11 @@ a {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-
     
 }
 
 .embed-responsive-item{
-    /* height:px; */
+    /* height:500px; */
     width: 50%;
 }
 .futter h2 {
